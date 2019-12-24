@@ -1,0 +1,36 @@
+Write Effective test cases following standards
+It all depends upon how you write a test case.
+Ultimately you test an application by keeping test case doc as a reference.
+Which standards I need to follow while writing a test case ????
+There is no standard..It is upto them how they define ...everyone they have their own way of writing their test case.
+There is no prototype also to follow it !!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
